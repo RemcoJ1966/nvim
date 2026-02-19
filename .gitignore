@@ -1,3 +1,6 @@
 nvim-lspconfig/
+lua/plugins/node_modules/
+package.json
+package-lock.json
 lazy-lock.json
 lsp
