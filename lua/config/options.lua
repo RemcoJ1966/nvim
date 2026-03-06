@@ -15,7 +15,7 @@ vim.opt.termguicolors = true        -- enable 24-bit color in the TUI
 vim.opt.showmode = true             -- show mode
 
 -- Completion Menu
-vim.opt.completeopt = { 'menu', 'menuone', 'noselect', 'fuzzy', 'popup' }
+vim.opt.completeopt = { 'menu', 'menuone', 'fuzzy', 'popup' }
 
 -- Searching
 vim.opt.incsearch = true        -- search as characters are entered
